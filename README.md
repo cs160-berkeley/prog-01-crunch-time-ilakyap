@@ -13,7 +13,7 @@ See the LittleGymBuddy demo here. (https://vimeo.com/154377239)
 ## Screenshots
 
 <img src="screenshots/apphomescreen.png" height="400" alt="Screenshot"/>
-<img src="screenshots/appsecondscreen.png" height="400" alt="Screenshot"/>
+<img src="screenshots/appsecondpage.png" height="400" alt="Screenshot"/>
 <img src="screenshots/appthirdscreen.png" height="400" alt="Screenshot"/>
 <img src="screenshots/appfourthscreen.png" height="400" alt="Screenshot"/>
 <img src="screenshots/appfifthscreen.png" height="400" alt="Screenshot"/>
