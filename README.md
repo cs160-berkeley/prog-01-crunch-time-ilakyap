@@ -8,7 +8,7 @@ Ilakya Palanisamy ([ilakya.palanisamy@berkeley.edu](mailto:ilakya.palanisamy@ber
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See the [LittleGymBuddy demo here]. (https://vimeo.com/154377239)
 
 ## Screenshots
 
